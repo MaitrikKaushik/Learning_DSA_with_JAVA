@@ -29,7 +29,7 @@ I’m documenting everything I study — from the basics of Java programming to 
 
 ## 📅 Progress
 
-📊 [View My Full Progress Sheet on Zoho](https://sheet.zohopublic.in/sheet/published/rtinp0d3dff3bf5094445954b45a70a0ed8a2))
+📊 [View My Full Progress Sheet on Zoho](https://sheet.zohopublic.in/sheet/published/rtinp0d3dff3bf5094445954b45a70a0ed8a2)
 
 ## 🎯 Goals
 - Strengthen my understanding of **Java fundamentals**
